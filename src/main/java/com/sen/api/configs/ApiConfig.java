@@ -10,7 +10,7 @@ import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 
 import com.sen.api.utils.ReportUtil;
-
+//api配置信息
 public class ApiConfig {
 
 	public ApiConfig(String configFilePath) throws DocumentException{
